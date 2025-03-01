@@ -1,0 +1,10 @@
+{
+    "name": "react-accordion-router",
+    "version": "0.1.0",
+    "description": "A performant, layout-shift-free horizontal accordion component for React, with routing capabilities",
+    "main": "index.js",
+    "repository": "https://github.com/toothlessdev/react-accordion-router.git",
+    "author": "toothlessdev <toothless042@gmail.com>",
+    "license": "MIT",
+    "private": false
+}
